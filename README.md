@@ -32,13 +32,11 @@ Technologies Used
 - Responsive Design (optimized for all screen sizes)
 
 Demo
-Check out the live demo of the website [here](#) (add the link to your hosted demo).
+Check out the live demo of the website [[here](#](https://purr-and-pour.vercel.app/)) 
 
 Installation
 To run the project locally:
-1. Clone the repository:
-   bash
-   git clone https://github.com/your-username/cafe-website.git
+1. Clone the repository
    
 2. Navigate into the project folder:
    bash
@@ -54,4 +52,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thanks for visiting our café website project! We hope it brings the warmth of coffee, the joy of pets, and the comfort of books to your screen.
 
-Created with ❤ by the Dream Wave Team.
+Created with ❤ by the DreamWave Team.
